@@ -1,2 +1,2 @@
-# AMAT255
-Repository of all codes and outputs used in AMAT 255, a graduate course in Mathematical Data Science
+# Data Science Dump
+Repository of all codes and materials used to explore the data science field.
